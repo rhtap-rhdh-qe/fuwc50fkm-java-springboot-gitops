@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fuwc50fkm-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fuwc50fkm-java-springboot
